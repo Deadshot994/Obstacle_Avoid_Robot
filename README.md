@@ -31,7 +31,7 @@ Each folder under **Robot Functions** contains Arduino `.ino` files and related 
 
 ## Technologies Used
 
-- Arduino Uno / Nano
+- Arduino Uno
 - IR Sensors
 - Motor Driver (L298N or similar)
 - Embedded C / Arduino IDE
