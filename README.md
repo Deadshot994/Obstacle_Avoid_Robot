@@ -46,8 +46,11 @@ Each folder under **Robot Functions** contains Arduino `.ino` files and related 
 ## Setup Instructions
 
 1. Clone this repository:
-   ```bash
+   ```
    https://github.com/Deadshot994/Obstacle_Avoid_Robot.git
+   ```
+## License
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 Sanjeeth Manikandan
